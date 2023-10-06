@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/luthfihalimi" target="blank"><img src="https://img.shields.io/twitter/follow/luthfihalimi?logo=twitter&style=for-the-badge" alt="luthfihalimi" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C++, Java**
+- 🌱 I’m currently learning **Python, C++, Java Script**
 
-- 💬 Ask me about **Android , Python**
+- 💬 Ask me about **C++ , Java Script**
 
 - 📫 How to reach me **luthfihalimi26@gmail.com**
 
