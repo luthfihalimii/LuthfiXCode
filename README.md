@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **luthfihalimi26@gmail.com**
 
-- ⚡ Fun fact **I am Just Child 15 Years old**
+- ⚡ Fun fact **I am Just Child 16 Years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mystic_xcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mystic_xcode" height="30" width="40" /></a>
-<a href="https://instagram.com/mystic.botz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mystic.botz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luthfixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luthfixcode" height="30" width="40" /></a>
+<a href="https://instagram.com/chizmoonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mystic.botz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/LUTHFIXCODE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luthfixcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
